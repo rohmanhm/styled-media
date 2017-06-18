@@ -1,4 +1,6 @@
 # 💅 Styled-Media
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/rohmanhm/styled-media.svg)](https://greenkeeper.io/)
 > [Styled-Components](https://github.com/styled-components/styled-components/) media queries. Extracted from [this](https://github.com/styled-components/styled-components/blob/master/docs/tips-and-tricks.md#media-templates)
 
 ## How to use
