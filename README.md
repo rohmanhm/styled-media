@@ -4,7 +4,7 @@
 ## How to use
 
 ```javascript
-import media from 'styled-media`
+import media from 'styled-media'
 
 const Container = styled.div`
   color: #333;
