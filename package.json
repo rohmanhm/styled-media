@@ -13,7 +13,7 @@
   },
   "devDependencies": {
     "jest": "^22.0.0",
-    "react": "^16.0.0"
+    "react": "^16.5.1"
   },
   "dependencies": {
     "styled-components": "^3.0.0"
